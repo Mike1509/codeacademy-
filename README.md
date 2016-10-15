@@ -1,2 +1,0 @@
-# codeacademy-
-code academy project 
